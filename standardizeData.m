@@ -1,3 +1,4 @@
+//standardize data
 function outArray = standardizeData(inArray,column)
 
 [row,col]=size(inArray);
