@@ -3,8 +3,7 @@ close all
 clc
 
 
-% - ucitavanje xlsx datoteke: cca 136.64 sec = 2min i 16 sec
-% - ucitavanje svih csv datoteka: cca 0.09 sec = 90 ms
+
 
 tic
 display('Loading database...');
