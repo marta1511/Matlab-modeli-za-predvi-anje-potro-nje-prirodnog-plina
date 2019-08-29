@@ -1,4 +1,4 @@
 # matlab
-Primjenjivi matematički/statistički modeli za predviđanje potrošnje prirodnog plina
-linearni modeli-linearna regresija, ARX, ARMAX, Box-Jenkins
-nelinarni modeli-model umjetne neuronske mreže (ANN)
+Primjenjivi matematički/statistički modeli za predviđanje potrošnje prirodnog plina.
+Linearni modeli-linearna regresija, ARX, ARMAX, Box-Jenkins.
+Nelinarni modeli-model umjetne neuronske mreže (ANN)
